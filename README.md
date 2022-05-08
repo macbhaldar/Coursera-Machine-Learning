@@ -1,4 +1,4 @@
-# Coursera-Machine-Learning
+# Coursera Machine Learning Course
 Programming assignments of Machine-Learning Course (Coursera - Stanford University) taught by Andrew Ng
 
 
