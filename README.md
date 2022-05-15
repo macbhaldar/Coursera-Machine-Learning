@@ -23,3 +23,15 @@ Programming assignments of Machine-Learning Course (Coursera - Stanford Universi
 - Multiclass Classification
 - Regularization
 
+### Week 4 - Neural Networks: Representation
+- Non-linear Hypotheses
+- Neurons and the Brain
+- Model Representation I
+- Applications (Multiclass Classification)
+
+### Week 5 - Neural Networks: Learning
+- Cost Function and Backpropagation
+- Gradient Checking
+- Random Initialization
+- Application of Neural Networks (Autonomous Driving)
+
