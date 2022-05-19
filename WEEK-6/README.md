@@ -1,4 +1,4 @@
-Week 6 - Advice for Applied Machine Learning
+## Week 6 - Advice for Applied Machine Learning
 
 ### Evaluating a Learning Algorithm
 - Deciding What to Try Next
