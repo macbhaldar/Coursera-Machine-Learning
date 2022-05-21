@@ -35,3 +35,9 @@ Programming assignments of Machine-Learning Course (Coursera - Stanford Universi
 - Random Initialization
 - Application of Neural Networks (Autonomous Driving)
 
+### Week 6 - Advice for Applied Machine Learning
+- Evaluating a Learning Algorithm
+- Bias vs. Varience
+- Building a Spam Classifier
+- Handling Skewed Data
+- Using Large Data Sets
