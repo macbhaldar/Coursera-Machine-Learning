@@ -41,3 +41,9 @@ Programming assignments of Machine-Learning Course (Coursera - Stanford Universi
 - Building a Spam Classifier
 - Handling Skewed Data
 - Using Large Data Sets
+
+### Week 7 - Support Vector machines
+- Large Margin Classification
+- Kernels
+- SVMs in Practice
+
