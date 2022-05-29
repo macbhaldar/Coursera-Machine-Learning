@@ -1,4 +1,4 @@
-## Anomaly Detection and Recommender Systems
+## Week 9 - Anomaly Detection and Recommender Systems
 
 ### Density Estimation
 - Problem Motivation
