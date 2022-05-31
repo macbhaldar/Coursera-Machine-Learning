@@ -47,3 +47,16 @@ Programming assignments of Machine-Learning Course (Coursera - Stanford Universi
 - Kernels
 - SVMs in Practice
 
+### Week 8 - Unsupervised Learening
+- Clustering
+- Data Compression & Visualization
+- Principal Component Analysis
+- Applying PCA
+
+### Week 9 - Anomaly Detection and Recommender Systems
+- Density Estimation
+- Building an Anomaly Detection System
+- Multivariate Gaussian Distribution (Optional)
+- Predicting Movie Ratings
+- Collaborative Filtering
+- Low Rank Matrix Factorization
