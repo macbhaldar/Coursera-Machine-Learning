@@ -1,4 +1,4 @@
-## Week 8 - Unsupervised Learening
+## Week 8 - Unsupervised Learning
 
 ### Clustering
 - Unsupervised Learning: Introduction
