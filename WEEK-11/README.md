@@ -1,4 +1,4 @@
-Week 11 - Applying Example Photo OCR
+## Week 11 - Applying Example Photo OCR
 
 ### Photo OCR
 - Problem Description and Pipeline
