@@ -60,3 +60,13 @@ Programming assignments of Machine-Learning Course (Coursera - Stanford Universi
 - Predicting Movie Ratings
 - Collaborative Filtering
 - Low Rank Matrix Factorization
+
+### Week 10 - Large Scale Machine Learning
+- Gradient Descent with Large Datasets
+- Stochastic Gradient Descent
+- Mini-Batch Gradient Descent
+- Stochastic Gradient Descent Convergence
+- Map Reduce and Data Parallelism
+
+### Week 11 - Applying Example Photo OCR
+- Photo OCR
